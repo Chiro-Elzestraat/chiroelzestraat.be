@@ -281,7 +281,7 @@ $_SESSION['r'] = $r;
           <h2 class="text-uppercase ftco-uppercase">Verhuur</h2>
           <div class="row justify-content-center mb-5">
             <div class="col-md-7">
-              <p class="lead">Onze lokalen zijn enkel beschikbaar tijdens weekends. De vaste kosten zijn vastgelegd op 200 euro. Het verbruik van gas en elektriciteit wordt
+              <p class="lead">Onze lokalen zijn enkel beschikbaar tijdens weekends. De vaste kosten zijn vastgelegd op 250 euro. Het verbruik van gas en elektriciteit wordt
                 berekend door middel van de meterstanden. Het contract vindt u <a target="_blank" href="https://verhuur.chiroelzestraat.be/2020 Huurcontract Chiro Elzestraat.pdf">hier.</a></p>
             </div>
           </div>
