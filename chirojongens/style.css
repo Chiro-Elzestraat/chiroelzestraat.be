@@ -1,0 +1,106 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Lato", sans-serif;
+  }
+  header {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 1rem;
+    align-items: center;
+    text-align: center;
+  }
+  
+  .navigatie {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 100%;
+    width: 100%;
+    background: #dd042b;
+    color: white;
+    font-size: 1.6em;
+    margin: 0;
+    transition: left 0.5s;
+  }
+  .open {
+    left: 0%;
+  }
+  header {
+    background-color: #dd042b;
+    text-align: start;
+  }
+  h1 {
+    margin: 0;
+    padding: 0.5em;
+    color: white;
+    font-weight: 300;
+  }
+  nav ul {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    list-style: none;
+  }
+  .navigatie a {
+    text-decoration: none;
+    color: white;
+    margin: 1em;
+    text-align: center;
+    cursor: pointer;
+    padding: 0.5em;
+    margin: 0 auto;
+    border-radius: 5px;
+  }
+  .navigatie a:is(:hover, :focus) {
+    background-color: white;
+    color: #dd042b;
+  }
+  
+  #sluit-knop {
+    position: absolute;
+    border: 0;
+    background: #dd042b;
+    color: white;
+    font-weight: 700;
+    font-size: 2rem;
+    align-self: flex-end;
+    margin-right: 1rem;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  #open-knop {
+    border: 0;
+    background: #dd042b;
+    color: white;
+    font-size: 2rem;
+    cursor: pointer;
+  }
+  
+  @media screen and (min-width: 600px) {
+    #open-knop {
+      display: none;
+    }
+    #sluit-knop {
+      display: none;
+    }
+    .navigatie {
+      position: relative;
+      left: 0%;
+    }
+    nav ul {
+      flex-wrap: wrap;
+      flex-direction: row;
+      font-size: 0.8em;
+    }
+    h1 {
+      width: 30%;
+    }
+  }
+  
