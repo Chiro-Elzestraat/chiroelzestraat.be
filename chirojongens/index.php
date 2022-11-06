@@ -373,7 +373,7 @@ $_SESSION['r'] = $r;
                 <p class="lead"><a href="https://tprogram.chiroelzestraat.be/kampboekje-Lavacherie-2021.pdf">Kampboekje 2021</a></p>
                 <p class="lead"><a href="http://chiroelzestraat.be/tprogram/Program-april-juni-2021.pdf">'t Program april - juni 2021</a></p>
                 <p class="lead"><a href="https://tprogram.chiroelzestraat.be/Program-januari-maart-2021.pdf">'t Program januari - maart 2021</a></p>
-                <p class="lead"><a href="https://tprogram.chiroelzestraat.be/Program-september-december-2020.pdf">'t Program september - december 2020</a></p>
+                <!--p class="lead"><a href="https://tprogram.chiroelzestraat.be/Program-september-december-2020.pdf">'t Program september - december 2020</a></p>
                 <iframe src="https://www.youtube.com/embed/6yQqg_pccZ4?color=white" width="560" height="315" allowfullscreen frameborder="0"></iframe>
             <p class="lead"><a href="https://tprogram.chiroelzestraat.be/kampboekje-Sprimont-2020.pdf">Kampboekje 2020</a></p>
             <p class="lead"><a href="https://tprogram.chiroelzestraat.be/t-program-januari-april-2020.pdf">'t Program januari - april -2020</a></p>
@@ -392,7 +392,7 @@ $_SESSION['r'] = $r;
               <p class="lead"><a href="https://tprogram.chiroelzestraat.be/t-program september_december2018.pdf" target="_blank">'t Program september - december 2018</a></p>
               <p class="lead"><a href="https://tprogram.chiroelzestraat.be/Kampboekje_2018.pdf" target="_blank">Kampboekje 2018</a></p>
               <p class="lead"><a href="https://chiroelzestraat.be/tprogram/t-program-april-juni2018.pdf" target="_blank">'t Program april - juni 2018</a></p>
-              <p class="lead"><a href="https://chiroelzestraat.be/tprogram/t-program-januari2018april2018.pdf" target="_blank">'t Program januari - april 2018</a></p>
+              <p class="lead"><a href="https://chiroelzestraat.be/tprogram/t-program-januari2018april2018.pdf" target="_blank">'t Program januari - april 2018</a></p-->
             </div>
           </div>
         </div>
