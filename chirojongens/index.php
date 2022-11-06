@@ -449,7 +449,7 @@ $_SESSION['r'] = $r;
         </div>
         <div class="col-md ftco-animate">
           <div class="ftco-counter text-center">
-            <span class="ftco-number" data-number="20">0</span>
+            <span class="ftco-number" data-number="16">0</span>
             <span class="ftco-label">Leiders</span>
           </div>
         </div>
