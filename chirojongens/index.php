@@ -297,7 +297,7 @@ $_SESSION['r'] = $r;
           <h4 class="text-uppercase">Locatie</h4>
           <div class="row justify-content-center mb-5">
             <div class="col-md-7">
-              <p class="lead">Clemenceaustraat 111A, 2860 Sint-Katelijne-Waver</p>
+              <p class="lead">Clemenceaustraat 111E, 2860 Sint-Katelijne-Waver</p>
               <p class="lead">Achter de kerk aan de rechterkant</p>
               <p><a href="galerij/verhuur">Foto-album</a></p>
             </div>
