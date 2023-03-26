@@ -188,17 +188,16 @@ $_SESSION['r'] = $r;
         
         
 
-        <!-- <div class="col-lg-4 col-md-6">
+        <div class="col-lg-4 col-md-6">
           <div class="media d-block mb-4 text-center ftco-media p-md-5 p-4 ftco-animate">
             <div class="media-body">
-              <h5 class="mt-0">ElzestraaTD 2020</h5>
-              <p>7 maart</p>
-              <img class="afbact" alt="ElzestraaTD" src="images/ElzestraaTD.jpg">
-              <p>We zijn terug!! Na een jaar onder de radar te hebben geleefd komt de alom bekende TD van d'elzestraat terug. Tickets binnenkort verkrijgbaar bij Aspiranten & Leiding van Chiro Elzestraat!</p>
-             <p><a target="_blank" href="https://www.facebook.com/events/1800205443444491/">Meer informatie</a></p>
+              <h5 class="mt-0">Paasmanden</h5>
+              <p>Zondag 9 april</p>
+              <img class="afbact" alt="ElzestraaTD" src="../img/paasmand.png">
+              <p>Wil jij een ontbijtje geleverd aan huis op Pasen? Heb jij geluk! Plaats <a target="_blank" href="https://forms.gle/4eriVEtkVnL6mJ3p8">hier snel je bestelling!</a></p>
             </div>
           </div>
-        </div> -->
+        </div>
         
         
         
