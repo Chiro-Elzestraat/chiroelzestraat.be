@@ -193,7 +193,7 @@ $_SESSION['r'] = $r;
             <div class="media-body">
               <h5 class="mt-0">Paasmanden</h5>
               <p>Zondag 9 april</p>
-              <img class="afbact" alt="ElzestraaTD" src="../img/paasmand.png">
+              <img class="afbact" alt="Paasmanden" src="https://chiroelzestraat.be/img/paasmand.png">
               <p>Wil jij een ontbijtje geleverd aan huis op Pasen? Heb jij geluk! Plaats <a target="_blank" href="https://forms.gle/4eriVEtkVnL6mJ3p8">hier snel je bestelling!</a></p>
             </div>
           </div>
