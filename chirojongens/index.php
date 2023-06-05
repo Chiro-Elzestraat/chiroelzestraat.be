@@ -147,10 +147,10 @@ $_SESSION['r'] = $r;
     <div class="container">
       <div class="row align-items-center justify-content-center text-center ftco-vh-100">
         <div class="col-md-10">
-          <h1 id="welkom" class="ftco-heading ftco-animate">Inschrijvingen voor het nieuwe Chirojaar zijn geopend!</h1>
-          <h2 class="h2"><a href="https://smart.chiroelzestraat.be/" class="nav-link inschrijvenLink">Schrijf je in via SmartChiro</a></h2>
-          <!-- <h2 class="h2"><a href="https://kamp.chiroelzestraat.be/" class="nav-link inschrijvenLink">Inschrijven kamp</a></h2>
-          <h2 class="h2"><a href="https://bbq.chiroelzestraat.be/" class="nav-link inschrijvenLink">Inschrijven bbq</a></h2> -->
+          <h1 id="welkom" class="ftco-heading ftco-animate">Inschrijvingen voor Chirokamp 2023 geopend!</h1>
+          <!-- <h2 class="h2"><a href="https://smart.chiroelzestraat.be/" class="nav-link inschrijvenLink">Schrijf je in via SmartChiro</a></h2> -->
+          <h2 class="h2"><a href="https://kamp.chiroelzestraat.be/" class="nav-link inschrijvenLink">Inschrijven kamp</a></h2>
+          <!--<h2 class="h2"><a href="https://bbq.chiroelzestraat.be/" class="nav-link inschrijvenLink">Inschrijven bbq</a></h2> -->
         </div>
       </div>
     </div>
@@ -188,7 +188,7 @@ $_SESSION['r'] = $r;
         
         
 
-        <div class="col-lg-4 col-md-6">
+        <!-- <div class="col-lg-4 col-md-6">
           <div class="media d-block mb-4 text-center ftco-media p-md-5 p-4 ftco-animate">
             <div class="media-body">
               <h5 class="mt-0">Paasmanden</h5>
@@ -197,7 +197,7 @@ $_SESSION['r'] = $r;
               <p>Wil jij een ontbijtje geleverd aan huis op Pasen? Heb jij geluk! Plaats <a target="_blank" href="https://forms.gle/4eriVEtkVnL6mJ3p8">hier snel je bestelling!</a></p>
             </div>
           </div>
-        </div>
+        </div> -->
         
         
         
