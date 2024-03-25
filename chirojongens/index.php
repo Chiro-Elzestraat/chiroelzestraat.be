@@ -362,18 +362,20 @@ $_SESSION['r'] = $r;
           <h2 class="text-uppercase ftco-uppercase">'t Program</h2>
           <div class="row justify-content-center mb-5">
             <div class="col-md-7">
-            <p class="lead"><a href="https://tprogram.chiroelzestraat.be/Kampboekje_2023.pdf">Kampboekje 2023</a></p>
-            <p class="lead"><a href="https://tprogram.chiroelzestraat.be/Program-april-juni-2023.pdf">'t Program april - juni 2023</a></p>
-            <p class="lead"><a href="https://tprogram.chiroelzestraat.be/tProgram-januari-april-2023.pdf">'t Program januari - april 2023</a></p>
-            <p class="lead"><a href="https://tprogram.chiroelzestraat.be/Program-september-december-2022.pdf">'t Program september - december 2022</a></p>
-            <p class="lead"><a href="https://tprogram.chiroelzestraat.be/Program-september-december-2022.pdf">'t Program september - december 2022</a></p>
-                <p class="lead"><a href="https://tprogram.chiroelzestraat.be/kampboekje-Olloy-Sur-Viroin-2022.pdf">Kampboekje 2022</a></p>
-                <p class="lead"><a href="https://tprogram.chiroelzestraat.be/Program-april-juni-2022.pdf">'t Program april - juni 2022</a></p>
-                <p class="lead"><a href="https://tprogram.chiroelzestraat.be/t-program-januari-april-2022.pdf">'t Program januari - april 2022</a></p>
-                <p class="lead"><a href="https://tprogram.chiroelzestraat.be/Program-september-december-2021.pdf">'t Program september - december 2021</a></p>
-                <p class="lead"><a href="https://tprogram.chiroelzestraat.be/kampboekje-Lavacherie-2021.pdf">Kampboekje 2021</a></p>
-                <p class="lead"><a href="http://chiroelzestraat.be/tprogram/Program-april-juni-2021.pdf">'t Program april - juni 2021</a></p>
-                <p class="lead"><a href="https://tprogram.chiroelzestraat.be/Program-januari-maart-2021.pdf">'t Program januari - maart 2021</a></p>
+              <p class="lead"><a href="https://tprogram.chiroelzestraat.be/tProgram-januari-april-2023">'t Program
+                januari - april 2024</a></p>
+              <!--            <p class="lead"><a href="https://tprogram.chiroelzestraat.be/Kampboekje_2023.pdf">Kampboekje 2023</a></p>-->
+              <!--            <p class="lead"><a href="https://tprogram.chiroelzestraat.be/Program-april-juni-2023.pdf">'t Program april - juni 2023</a></p>-->
+              <!--            <p class="lead"><a href="https://tprogram.chiroelzestraat.be/tProgram-januari-april-2023.pdf">'t Program januari - april 2023</a></p>-->
+              <!--            <p class="lead"><a href="https://tprogram.chiroelzestraat.be/Program-september-december-2022.pdf">'t Program september - december 2022</a></p>-->
+              <!--            <p class="lead"><a href="https://tprogram.chiroelzestraat.be/Program-september-december-2022.pdf">'t Program september - december 2022</a></p>-->
+              <!--                <p class="lead"><a href="https://tprogram.chiroelzestraat.be/kampboekje-Olloy-Sur-Viroin-2022.pdf">Kampboekje 2022</a></p>-->
+              <!--                <p class="lead"><a href="https://tprogram.chiroelzestraat.be/Program-april-juni-2022.pdf">'t Program april - juni 2022</a></p>-->
+              <!--                <p class="lead"><a href="https://tprogram.chiroelzestraat.be/t-program-januari-april-2022.pdf">'t Program januari - april 2022</a></p>-->
+              <!--                <p class="lead"><a href="https://tprogram.chiroelzestraat.be/Program-september-december-2021.pdf">'t Program september - december 2021</a></p>-->
+              <!--                <p class="lead"><a href="https://tprogram.chiroelzestraat.be/kampboekje-Lavacherie-2021.pdf">Kampboekje 2021</a></p>-->
+              <!--                <p class="lead"><a href="http://chiroelzestraat.be/tprogram/Program-april-juni-2021.pdf">'t Program april - juni 2021</a></p>-->
+              <!--                <p class="lead"><a href="https://tprogram.chiroelzestraat.be/Program-januari-maart-2021.pdf">'t Program januari - maart 2021</a></p>-->
                 <!-- <p></p>
                 <div class="show-more">
                 <p class="lead"><a href="https://tprogram.chiroelzestraat.be/Program-september-december-2020.pdf">'t Program september - december 2020</a></p>
