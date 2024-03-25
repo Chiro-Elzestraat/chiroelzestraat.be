@@ -436,7 +436,7 @@ $_SESSION['r'] = $r;
   <!--    </div>-->
 
   <!--  </section>-->
-  <section class="ftco-section bg-slant ftco-slant ftco-slant-white" id="section-counter">
+  <section class="ftco-section bg-slant ftco-slant ftco-slant-white" id="section-numbers">
 
     <div class="container">
       <div class="row mb-5">
@@ -467,6 +467,9 @@ $_SESSION['r'] = $r;
       </div>
     </div>
 
+  </section>
+
+  <section class="ftco-section bg-slant ftco-slant ftco-slant-white" id="section-faq">
     <div class="container">
       <div class="row mb-5">
         <div class="col-md-12 text-center">
@@ -477,7 +480,8 @@ $_SESSION['r'] = $r;
       <div class="row">
         <div class="col-md-12 ">
           <h2>Roken – Vapen – Drugs beleid</h2>
-          <p>Ons rook en drugs beleid kan je <a href="https://docs.google.com/document/d/1wAZEWRUqxB2IpmUwKgUxwfvjvoU_3fP9">hier</a> terugvinden</p>
+          <p>Ons rook en drugs beleid kan je <a
+                  href="https://docs.google.com/document/d/1wAZEWRUqxB2IpmUwKgUxwfvjvoU_3fP9">hier</a> terugvinden</p>
         </div>
       </div>
     </div>
