@@ -430,7 +430,7 @@ $_SESSION['r'] = $r;
   <!--    </div>-->
 
   <!--  </section>-->
-  <section class="ftco-section bg-slant ftco-slant ftco-slant-white" id="section-numbers">
+  <section class="ftco-section bg-slant ftco-slant ftco-slant-white" id="section-counter">
 
     <div class="container">
       <div class="row mb-5">
