@@ -123,12 +123,12 @@ $_SESSION['r'] = $r;
                                                                               echo "style=\"color:yellow;\"";
                                                                             } ?>>Program</a>
           </li>
-          <li class="nav-item"><a href="#section-evenementen" class="nav-link" <?php if ($r == 3 || $r == 5 || $r == 6 || $r == 11 || $r == 13) {
-                                                                                  echo "style=\"color:gray;\"";
-                                                                                } elseif ($r == 7 || $r == 1 ) {
-                                                                                  echo "style=\"color:yellow;\"";
-                                                                                } ?>>Evenementen</a>
-          </li>
+          <!--          <li class="nav-item"><a href="#section-evenementen" class="nav-link" <?php if ($r == 3 || $r == 5 || $r == 6 || $r == 11 || $r == 13) {-->
+          <!--                                                                                  echo "style=\"color:gray;\"";-->
+          <!--                                                                                } elseif ($r == 7 || $r == 1 ) {-->
+          <!--                                                                                  echo "style=\"color:yellow;\"";-->
+          <!--                                                                                } ?>>Evenementen</a>-->
+          <!--          </li>-->
           <li class="nav-item"><a href="#section-contact" class="nav-link" <?php if ($r == 3 || $r == 5 || $r == 6 || $r == 11 || $r == 13) {
                                                                               echo "style=\"color:gray;\"";
                                                                             } elseif ($r == 7 || $r == 1 ) {
@@ -362,7 +362,7 @@ $_SESSION['r'] = $r;
           <h2 class="text-uppercase ftco-uppercase">'t Program</h2>
           <div class="row justify-content-center mb-5">
             <div class="col-md-7">
-              <p class="lead"><a href="https://tprogram.chiroelzestraat.be/tProgram-januari-april-2023">'t Program
+              <p class="lead"><a href="https://tprogram.chiroelzestraat.be/Program-januari-april-2024.pdf">'t Program
                 januari - april 2024</a></p>
               <!--            <p class="lead"><a href="https://tprogram.chiroelzestraat.be/Kampboekje_2023.pdf">Kampboekje 2023</a></p>-->
               <!--            <p class="lead"><a href="https://tprogram.chiroelzestraat.be/Program-april-juni-2023.pdf">'t Program april - juni 2023</a></p>-->
@@ -406,38 +406,36 @@ $_SESSION['r'] = $r;
   </section>
   <!-- einde 't Program sectie -->
 
-  <section class="ftco-section bg-light  ftco-slant ftco-slant-white" id="section-evenementen">
-    <div class="container">
-      <div class="row mb-5">
-        <div class="col-md-12 text-center ftco-animate">
-          <h2 class="text-uppercase ftco-uppercase">Evenementen</h2>
-          <div class="row justify-content-center mb-5">
-            <div class="col-md-7">
-              <a href="https://www.facebook.com/JungleTD/"><img class="evenement" alt="JungleTD" src="images/jungletd.jpg"></a>
-            </div>
-          </div>
-          <div class="row justify-content-center mb-5">
-            <div class="col-md-7">
-              <a href="https://www.facebook.com/events/1526390364142622/"><img class="evenement" alt="Elzestraatd" src="images/elzestraatd.jpg"></a>
-            </div>
-          </div>
-          <!--<div class="row justify-content-center mb-5">
-              <div class="col-md-7">
-                <a href="https://quiz.chiroelzestraat.be"><img class="evenement" alt="Chiroquiz" src="images/chiroquiz.PNG"></a>
-              </div>
-            </div>
-            <div class="row justify-content-center mb-5">
-              <div class="col-md-7">
-                <a href="https://www.facebook.com/events/260560494590414/"><img class="evenement" alt="Jungle Junior" src="images/junglejunior.jpg"></a>
-              </div>
-            </div>-->
-        </div>
-      </div>
-    </div>
-    </div>
-    </div>
+  <!--  <section class="ftco-section bg-light  ftco-slant ftco-slant-white" id="section-evenementen">-->
+  <!--    <div class="container">-->
+  <!--      <div class="row mb-5">-->
+  <!--        <div class="col-md-12 text-center ftco-animate">-->
+  <!--          <h2 class="text-uppercase ftco-uppercase">Evenementen</h2>-->
+  <!--          <div class="row justify-content-center mb-5">-->
+  <!--            <div class="col-md-7">-->
+  <!--              <a href="https://www.facebook.com/JungleTD/"><img class="evenement" alt="JungleTD" src="images/jungletd.jpg"></a>-->
+  <!--            </div>-->
+  <!--          </div>-->
+  <!--          <div class="row justify-content-center mb-5">-->
+  <!--            <div class="col-md-7">-->
+  <!--              <a href="https://www.facebook.com/events/1526390364142622/"><img class="evenement" alt="Elzestraatd" src="images/elzestraatd.jpg"></a>-->
+  <!--            </div>-->
+  <!--          </div>-->
+  <!--          &lt;!&ndash;<div class="row justify-content-center mb-5">-->
+  <!--              <div class="col-md-7">-->
+  <!--                <a href="https://quiz.chiroelzestraat.be"><img class="evenement" alt="Chiroquiz" src="images/chiroquiz.PNG"></a>-->
+  <!--              </div>-->
+  <!--            </div>-->
+  <!--            <div class="row justify-content-center mb-5">-->
+  <!--              <div class="col-md-7">-->
+  <!--                <a href="https://www.facebook.com/events/260560494590414/"><img class="evenement" alt="Jungle Junior" src="images/junglejunior.jpg"></a>-->
+  <!--              </div>-->
+  <!--            </div>&ndash;&gt;-->
+  <!--        </div>-->
+  <!--      </div>-->
+  <!--    </div>-->
 
-  </section>
+  <!--  </section>-->
   <section class="ftco-section bg-slant ftco-slant ftco-slant-white" id="section-counter">
 
     <div class="container">
