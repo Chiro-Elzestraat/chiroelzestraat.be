@@ -121,7 +121,7 @@ $_SESSION['r'] = $r;
                                                                               echo "style=\"color:gray;\"";
                                                                             } elseif ($r == 7 || $r == 1 ) {
                                                                               echo "style=\"color:yellow;\"";
-                                                                            } ?>Program</a>
+                                                                            } ?>>Program</a>
           </li>
           <!--          <li class="nav-item"><a href="#section-evenementen" class="nav-link" <?php if ($r == 3 || $r == 5 || $r == 6 || $r == 11 || $r == 13) {
                                                                                             echo "style=\"color:gray;\"";
