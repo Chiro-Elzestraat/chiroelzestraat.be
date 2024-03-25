@@ -147,9 +147,10 @@ $_SESSION['r'] = $r;
     <div class="container">
       <div class="row align-items-center justify-content-center text-center ftco-vh-100">
         <div class="col-md-10">
-          <h1 id="welkom" class="ftco-heading ftco-animate">Inschrijvingen voor Chirokamp 2023 geopend!</h1>
+          <h1 class="ftco-heading ftco-animate" id="welkom">Welkom bij Chirojongens Elzestraats</h1>
+          <!--          <h1 id="welkom" class="ftco-heading ftco-animate">Inschrijvingen voor Chirokamp 2023 geopend!</h1>-->
           <!-- <h2 class="h2"><a href="https://smart.chiroelzestraat.be/" class="nav-link inschrijvenLink">Schrijf je in via SmartChiro</a></h2> -->
-          <h2 class="h2"><a href="https://kamp.chiroelzestraat.be/" class="nav-link inschrijvenLink">Inschrijven kamp</a></h2>
+          <!--          <h2 class="h2"><a href="https://kamp.chiroelzestraat.be/" class="nav-link inschrijvenLink">Inschrijven kamp</a></h2>-->
           <!--<h2 class="h2"><a href="https://bbq.chiroelzestraat.be/" class="nav-link inschrijvenLink">Inschrijven bbq</a></h2> -->
         </div>
       </div>
@@ -184,10 +185,6 @@ $_SESSION['r'] = $r;
             </div>
           </div>
         </div> -->
-        
-        
-        
-
         <!-- <div class="col-lg-4 col-md-6">
           <div class="media d-block mb-4 text-center ftco-media p-md-5 p-4 ftco-animate">
             <div class="media-body">
@@ -198,11 +195,7 @@ $_SESSION['r'] = $r;
             </div>
           </div>
         </div> -->
-        
-        
-        
       </div>
-    </div>
   </section>
 <!--einde opkomende activiteiten-->
 
@@ -403,6 +396,7 @@ $_SESSION['r'] = $r;
           </div>
         </div>
       </div>
+    </div>
   </section>
   <!-- einde 't Program sectie -->
 
@@ -523,9 +517,6 @@ $_SESSION['r'] = $r;
       <div class="row mb-5">
         <div class="col-md-8">
           <div class="row">
-
-
-
           </div>
         </div>
         <div class="col-md-4">
