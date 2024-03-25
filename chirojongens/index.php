@@ -454,7 +454,7 @@ $_SESSION['r'] = $r;
         </div>
         <div class="col-md ftco-animate">
           <div class="ftco-counter text-center">
-            <span class="ftco-number" data-number="16">0</span>
+            <span class="ftco-number" data-number="11">0</span>
             <span class="ftco-label">Leiders</span>
           </div>
         </div>
@@ -469,13 +469,13 @@ $_SESSION['r'] = $r;
 
     <div class="container">
       <div class="row mb-5">
-        <div class="col-md-12 text-center ftco-animate">
+        <div class="col-md-12 text-center">
           <h2 class="text-uppercase ftco-uppercase">F.A.Q.</h2>
         </div>
       </div>
 
       <div class="row">
-        <div class="col-md">
+        <div class="col-md-12 ">
           <h2>Roken – Vapen – Drugs beleid</h2>
           <p>Ons rook en drugs beleid kan je <a href="https://docs.google.com/document/d/1wAZEWRUqxB2IpmUwKgUxwfvjvoU_3fP9">hier</a> terugvinden</p>
         </div>
