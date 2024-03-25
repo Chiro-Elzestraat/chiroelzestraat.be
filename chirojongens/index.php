@@ -475,8 +475,10 @@ $_SESSION['r'] = $r;
       </div>
 
       <div class="row">
-        <h2>Roken – Vapen – Drugs beleid</h2>
-        <p>Ons rook en drugs beleid kan je <a href="https://docs.google.com/document/d/1wAZEWRUqxB2IpmUwKgUxwfvjvoU_3fP9">hier</a> terugvinden</p>
+        <div class="col-md">
+          <h2>Roken – Vapen – Drugs beleid</h2>
+          <p>Ons rook en drugs beleid kan je <a href="https://docs.google.com/document/d/1wAZEWRUqxB2IpmUwKgUxwfvjvoU_3fP9">hier</a> terugvinden</p>
+        </div>
       </div>
     </div>
 
