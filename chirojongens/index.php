@@ -147,7 +147,7 @@ $_SESSION['r'] = $r;
     <div class="container">
       <div class="row align-items-center justify-content-center text-center ftco-vh-100">
         <div class="col-md-10">
-          <h1 class="ftco-heading ftco-animate" id="welkom">Welkom bij Chirojongens Elzestraats</h1>
+          <h1 class="ftco-heading ftco-animate" id="welkom">Welkom bij Chirojongens Elzestraat</h1>
           <!--          <h1 id="welkom" class="ftco-heading ftco-animate">Inschrijvingen voor Chirokamp 2023 geopend!</h1>-->
           <!-- <h2 class="h2"><a href="https://smart.chiroelzestraat.be/" class="nav-link inschrijvenLink">Schrijf je in via SmartChiro</a></h2> -->
           <!--          <h2 class="h2"><a href="https://kamp.chiroelzestraat.be/" class="nav-link inschrijvenLink">Inschrijven kamp</a></h2>-->
