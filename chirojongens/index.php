@@ -274,7 +274,7 @@ $_SESSION['r'] = $r;
           <div class="row justify-content-center mb-5">
             <div class="col-md-7">
               <p class="lead">Onze lokalen zijn enkel beschikbaar tijdens weekends. De vaste kosten zijn vastgelegd op 250 euro. Het verbruik van gas en elektriciteit wordt
-                berekend door middel van de meterstanden. Het contract vindt u <a target="_blank" href="https://verhuur.chiroelzestraat.be/Huurcontract Chirojongens Elzestraat 2022.pdf">hier.</a></p>
+                berekend door middel van de meterstanden. Het contract vindt u <a target="_blank" href="https://verhuur.chiroelzestraat.be/Huurcontract Chirojongens Elzestraat 2024-2025.pdf">hier.</a></p>
             </div>
           </div>
           <h4 class="text-uppercase">Waarborg</h4>
