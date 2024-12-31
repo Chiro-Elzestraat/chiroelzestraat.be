@@ -328,6 +328,7 @@ $_SESSION['r'] = $r;
                   keuken (bestek, borden, kookpotten, etc.)</span></li>
                         <li class="d-flex mb-2"><span class="oi oi-check mr-3 text-primary"></span> <span>sanitair vermogen &
                   douche</span></li>
+<<<<<<< HEAD
               <li class="d-flex mb-2"><span class="oi oi-x mr-3 text-primary"></span> <span>GEEN bedden</span></li>
             </ul>
           </div>
@@ -416,10 +417,12 @@ $_SESSION['r'] = $r;
               <p class="lead"><a href="https://chiroelzestraat.be/tprogram/t-program-april-juni2018.pdf" target="_blank">'t Program april - juni 2018</a></p>
               <p class="lead"><a href="https://chiroelzestraat.be/tprogram/t-program-januari2018april2018.pdf" target="_blank">'t Program januari - april 2018</a></p>
                 </div> -->
+=======
                         <li class="d-flex mb-2"><span class="oi oi-x mr-3 text-primary"></span> <span>GEEN bedden</span>
                         </li>
                     </ul>
                 </div>
+>>>>>>> 39519ba99fde1c2504443700d3690e3331962204
             </div>
 
             <div class="col-lg-4 mb-5 ftco-animate">
