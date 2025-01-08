@@ -491,7 +491,7 @@ $_SESSION['r'] = $r;
             </div>
             <div class="col-md ftco-animate">
                 <div class="ftco-counter text-center">
-                    <span Y class="ftco-number" data-number="<?php echo date("") - 1954; ?>">0</span>
+                    <span Y class="ftco-number" data-number="71">0</span>
                     <span class="ftco-label">Jaar Chiro Elzestraat</span>
                 </div>
             </div>
