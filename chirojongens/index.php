@@ -388,14 +388,9 @@ $_SESSION['r'] = $r;
                             januari - maart 2025</a></p>
                         <p class="lead"><a href="https://tprogram.chiroelzestraat.be/Program-sept-dec2024.pdf">'t
                             Program september - december 2024</a></p>
-                        <p class="lead"><a href="https://tprogram.chiroelzestraat.be/Kampboekje2024.pdf">Kampboekje
-                            2024</a></p>
-                        <p class="lead"><a href="https://tprogram.chiroelzestraat.be/Program-april-juni-2024.pdf">'t
-                            Program
-                            april - juni 2024</a></p>
-                        <p class="lead"><a href="https://tprogram.chiroelzestraat.be/Program-januari-april-2024.pdf">'t
-                            Program
-                            januari - april 2024</a></p>
+                        <!-- <p class="lead"><a href="https://tprogram.chiroelzestraat.be/Kampboekje2024.pdf">Kampboekje 2024</a></p> -->
+                        <!-- <p class="lead"><a href="https://tprogram.chiroelzestraat.be/Program-april-juni-2024.pdf">'t Program april - juni 2024</a></p> -->
+                        <!-- <p class="lead"><a href="https://tprogram.chiroelzestraat.be/Program-januari-april-2024.pdf">'t Program januari - april 2024</a></p> -->
                         <!--            <p class="lead"><a href="https://tprogram.chiroelzestraat.be/Kampboekje_2023.pdf">Kampboekje 2023</a></p>-->
                         <!--            <p class="lead"><a href="https://tprogram.chiroelzestraat.be/Program-april-juni-2023.pdf">'t Program april - juni 2023</a></p>-->
                         <!--            <p class="lead"><a href="https://tprogram.chiroelzestraat.be/tProgram-januari-april-2023.pdf">'t Program januari - april 2023</a></p>-->
