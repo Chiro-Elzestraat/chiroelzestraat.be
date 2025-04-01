@@ -382,6 +382,7 @@ $_SESSION['r'] = $r;
                 <h2 class="text-uppercase ftco-uppercase">'t Program</h2>
                 <div class="row justify-content-center mb-5">
                     <div class="col-md-7">
+                        <p class="lead">
                         <p class="lead"><a href="https://tprogram.chiroelzestraat.be/Program-jan-mrt.pdf">'t Program
                             januari - maart 2025</a></p>
                         <p class="lead"><a href="https://tprogram.chiroelzestraat.be/Program-sept-dec2024.pdf">'t
